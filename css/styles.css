@@ -92,7 +92,7 @@ body {
     padding: 15px 30px;
     background: #FBC02D;
     margin-left: 60px;
-    box-shadow: 0 0 30px 10px rgba(0,0,0, .25)
+    box-shadow: 0 0 50px 5px rgba(0,0,0, .25)
 }
 
 .editor__buttons li {
